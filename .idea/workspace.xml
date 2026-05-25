@@ -4,23 +4,56 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="65511764-d43b-41fe-8b06-8b8a359c4f61" name="更改" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/yc/Java-8周基础与八股复习计划.md" afterDir="false" />
+    <list default="true" id="65511764-d43b-41fe-8b06-8b8a359c4f61" name="更改" comment="Java-0~1学习,项目init">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/yc/01-one-week/java-exception-hierarchy.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/yc/01-one-week/java-reflection-dynamic-proxy.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/yc/02-two-week/java-collections-overview.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/yc/03-three-week/java-threading-overview.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/yc/04-four-week/java-jvm-memory-structure.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/yc/05-five-week/java-mysql-overview.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/yc/06-six-week/java-spring-core-overview.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/yc/06-six-week/java-springboot-springcloud-overview.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/yc/07-seven-week/java-http-overview.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/yc/07-seven-week/java-mq-overview.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/yc/07-seven-week/java-redis-overview.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/yc/08-eight-week/java-linux-troubleshooting-overview.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/yc/Java技术知识点-概括.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/claudeCodeTabState.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/claudeCodeTabState.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+      </GitPushTagMode>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;fan-chao-sys&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/fan-chao-sys/Java-base-fighting.git&quot;,
+    &quot;accountId&quot;: &quot;c4bd6ee7-7942-4a0d-8f75-4662485d47c0&quot;
+  }
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 7
 }</component>
@@ -32,24 +65,70 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "onboarding.tips.debug.path": "D:/Java/ideaworkspare/dev/Java-layTheFoundation/src/main/java/org/example/Main.java",
-    "project.structure.last.edited": "模块",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "preferences.pluginManager",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Java/ideaworkspare/dev/Java-fighting/src/main/java/com/yc/01-one-week&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;D:/Java/ideaworkspare/dev/Java-layTheFoundation/src/main/java/org/example/Main.java&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;模块&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settings.project.maven.repository.indices&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;,
+    &quot;应用程序.day1Actual.executor&quot;: &quot;Run&quot;
   }
-}]]></component>
+}</component>
+  <component name="RebelAgentSelection">
+    <selection>jr</selection>
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Java\ideaworkspare\dev\Java-fighting\src\main\java\com\yc\01-one-week" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Java\ideaworkspare\dev\Java-fighting\src\main\java\com\yc" />
+      <recent name="D:\Java\ideaworkspare\dev\Java-fighting\src\main\java\com\yc\03-three-week" />
+      <recent name="D:\Java\ideaworkspare\dev\Java-fighting\src\main\java\com\yc\05-five-week" />
+      <recent name="D:\Java\ideaworkspare\dev\Java-fighting\src\main\java\com\yc\06-six-week" />
+      <recent name="D:\Java\ideaworkspare\dev\Java-fighting\src\main\java\com\yc\07-seven-week" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="day1Actual" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day1Actual" />
+      <module name="Java-fight" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="Java-fighting" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="Java-fighting" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="应用程序.day1Actual" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -68,12 +147,31 @@
       <updated>1779680712101</updated>
       <workItem from="1779680713141" duration="301000" />
       <workItem from="1779681036119" duration="1000" />
-      <workItem from="1779682109628" duration="528000" />
+      <workItem from="1779682109628" duration="878000" />
+      <workItem from="1779684651349" duration="4150000" />
+      <workItem from="1779690673216" duration="19000" />
+      <workItem from="1779690737930" duration="595000" />
+      <workItem from="1779691339951" duration="13601000" />
+      <workItem from="1779707750692" duration="918000" />
+      <workItem from="1779715735016" duration="94000" />
     </task>
+    <task id="LOCAL-00001" summary="Java-0~1学习,项目init">
+      <option name="closed" value="true" />
+      <created>1779682786237</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1779682786237</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Java-0~1学习,项目init" />
+    <option name="LAST_COMMIT_MESSAGE" value="Java-0~1学习,项目init" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

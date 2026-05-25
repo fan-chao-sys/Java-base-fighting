@@ -7,7 +7,7 @@
           <value>
             <TabSessionState>
               <option name="provider" value="claude" />
-              <option name="sessionId" value="26685bc9-d721-4d16-b2df-6cd6a115aead" />
+              <option name="sessionId" value="91332da5-3bbb-4736-ac20-da451fbfdfa8" />
               <option name="cwd" value="$PROJECT_DIR$" />
               <option name="model" value="deepseekv4-flash[1m]" />
               <option name="permissionMode" value="bypassPermissions" />
