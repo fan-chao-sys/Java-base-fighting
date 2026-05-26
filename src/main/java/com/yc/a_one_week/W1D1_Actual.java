@@ -1,8 +1,8 @@
-import com.yc.common.User;
+import com.yc.Xcommon.User;
 
 import java.util.HashMap;
 
-public class day1Actual {
+public class W1D1_Actual {
     //💻 代码实战
 
 

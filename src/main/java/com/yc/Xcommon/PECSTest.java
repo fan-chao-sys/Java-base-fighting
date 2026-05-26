@@ -1,6 +1,5 @@
-package com.yc.common;
+package com.yc.Xcommon;
 
-import java.util.ArrayList;
 import java.util.List;
 
 public class PECSTest {

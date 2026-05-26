@@ -1,4 +1,4 @@
-public class day3Actual{
+public class W1D3_Actual {
 
 
     public static void main(String[] args) {

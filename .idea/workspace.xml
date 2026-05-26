@@ -4,22 +4,62 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="65511764-d43b-41fe-8b06-8b8a359c4f61" name="更改" comment="Java-0~1学习,项目init">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/yc/01-one-week/java-exception-hierarchy.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/yc/01-one-week/java-reflection-dynamic-proxy.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/yc/02-two-week/java-collections-overview.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/yc/03-three-week/java-threading-overview.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/yc/04-four-week/java-jvm-memory-structure.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/yc/05-five-week/java-mysql-overview.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/yc/06-six-week/java-spring-core-overview.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/yc/06-six-week/java-springboot-springcloud-overview.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/yc/07-seven-week/java-http-overview.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/yc/07-seven-week/java-mq-overview.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/yc/07-seven-week/java-redis-overview.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/yc/08-eight-week/java-linux-troubleshooting-overview.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/yc/Java技术知识点-概括.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/claudeCodeTabState.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/claudeCodeTabState.xml" afterDir="false" />
+    <list default="true" id="65511764-d43b-41fe-8b06-8b8a359c4f61" name="更改" comment="第一周八股基础知识点+图文概念">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/yc/Java-8周基础与八股复习计划.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/yc/Xcommon/LRUCacheByLinkedHashMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/yc/Xcommon/Resource.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/yc/Xcommon/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/yc/b_two_week/W2D1_Actual.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/yc/b_two_week/W2D3_Actual.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/yc/b_two_week/W2D4_Actual.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/yc/b_two_week/W2D5_Actual.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/yc/b_two_week/W2D6_Actual.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/yc/b_two_week/day1-知识点背诵.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/yc/b_two_week/day2-知识点背诵.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/yc/b_two_week/day3-知识点背诵.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/yc/b_two_week/map-put流程与哈希冲突解决.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/yc/b_two_week/并发原理对比.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/yc/01-one-week/day1-知识点背诵.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/yc/a_one_week/day1-知识点背诵.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/yc/01-one-week/day1Actual.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/yc/a_one_week/W1D1_Actual.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/yc/01-one-week/day2-知识点背诵.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/yc/a_one_week/day2-知识点背诵.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/yc/01-one-week/day2Actual.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/yc/a_one_week/W1D2_Actual.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/yc/01-one-week/day3-知识点背诵.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/yc/a_one_week/day3-知识点背诵.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/yc/01-one-week/day3Actual.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/yc/a_one_week/W1D3_Actual.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/yc/01-one-week/day4-知识点背诵.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/yc/a_one_week/day4-知识点背诵.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/yc/01-one-week/day4Actual.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/yc/a_one_week/W1D4_Actual.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/yc/01-one-week/day5-知识点背诵.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/yc/a_one_week/day5-知识点背诵.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/yc/01-one-week/day5Actual.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/yc/a_one_week/W1D5_Actual.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/yc/01-one-week/day6-知识点背诵.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/yc/a_one_week/day6-知识点背诵.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/yc/01-one-week/day6Actual.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/yc/a_one_week/W1D6_Actual.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/yc/01-one-week/day7-周测知识点总结.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/yc/a_one_week/day7-周测知识点总结.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/yc/01-one-week/java-exception-hierarchy.svg" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/yc/a_one_week/java-exception-hierarchy.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/yc/01-one-week/java-reflection-dynamic-proxy.svg" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/yc/a_one_week/java-reflection-dynamic-proxy.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/yc/01-one-week/学习任务清单.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/yc/a_one_week/学习任务清单.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/yc/02-two-week/java-collections-overview.svg" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/yc/b_two_week/java-collections-overview.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/yc/02-two-week/学习任务清单.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/yc/b_two_week/学习任务清单.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/yc/03-three-week/java-threading-overview.svg" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/yc/c_three_week/java-threading-overview.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/yc/03-three-week/学习任务清单.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/yc/c_three_week/学习任务清单.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/yc/04-four-week/java-jvm-memory-structure.svg" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/yc/d_four_week/java-jvm-memory-structure.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/yc/04-four-week/学习任务清单.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/yc/d_four_week/学习任务清单.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/yc/05-five-week/java-mysql-overview.svg" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/yc/e_five_week/java-mysql-overview.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/yc/05-five-week/学习任务清单.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/yc/e_five_week/学习任务清单.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/yc/06-six-week/java-spring-core-overview.svg" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/yc/f_six_week/java-spring-core-overview.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/yc/06-six-week/java-springboot-springcloud-overview.svg" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/yc/f_six_week/java-springboot-springcloud-overview.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/yc/06-six-week/学习任务清单.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/yc/f_six_week/学习任务清单.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/yc/07-seven-week/java-http-overview.svg" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/yc/g_seven_week/java-http-overview.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/yc/07-seven-week/java-mq-overview.svg" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/yc/g_seven_week/java-mq-overview.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/yc/07-seven-week/java-redis-overview.svg" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/yc/g_seven_week/java-redis-overview.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/yc/07-seven-week/学习任务清单.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/yc/g_seven_week/学习任务清单.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/yc/08-eight-week/java-linux-troubleshooting-overview.svg" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/yc/h_eight_week/java-linux-troubleshooting-overview.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/yc/08-eight-week/学习任务清单.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/yc/h_eight_week/学习任务清单.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/yc/common/LogHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/yc/Xcommon/LogHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/yc/common/PECSTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/yc/Xcommon/PECSTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/yc/common/Singleton.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/yc/Xcommon/Singleton.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/yc/common/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/yc/Xcommon/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/yc/common/UserService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/yc/Xcommon/UserService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/yc/common/UserServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/yc/Xcommon/UserServiceImpl.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,33 +105,41 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/Java/ideaworkspare/dev/Java-fighting/src/main/java/com/yc/01-one-week&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;D:/Java/ideaworkspare/dev/Java-layTheFoundation/src/main/java/org/example/Main.java&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;模块&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settings.project.maven.repository.indices&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;,
-    &quot;应用程序.day1Actual.executor&quot;: &quot;Run&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/Java/ideaworkspare/dev/Java-fighting/src/main/java/com/yc/b_two_week",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "D:/Java/ideaworkspare/dev/Java-layTheFoundation/src/main/java/org/example/Main.java",
+    "project.structure.last.edited": "模块",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "reference.settings.project.maven.repository.indices",
+    "vue.rearranger.settings.migration": "true",
+    "应用程序.W2D3Actual.executor": "Run",
+    "应用程序.W2D3_Actual.executor": "Run",
+    "应用程序.W2D6_Actual.executor": "Run",
+    "应用程序.Week2Day3Actual.executor": "Run",
+    "应用程序.day1Actual.executor": "Run",
+    "应用程序.day3Actual.executor": "Run"
   }
-}</component>
+}]]></component>
   <component name="RebelAgentSelection">
     <selection>jr</selection>
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Java\ideaworkspare\dev\Java-fighting\src\main\java\com\yc\b_two_week" />
+      <recent name="D:\Java\ideaworkspare\dev\Java-fighting\src\main\java\com\yc\02-two-week" />
+      <recent name="D:\Java\ideaworkspare\dev\Java-fighting\src\main\java\com\yc" />
       <recent name="D:\Java\ideaworkspare\dev\Java-fighting\src\main\java\com\yc\01-one-week" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
@@ -101,10 +149,47 @@
       <recent name="D:\Java\ideaworkspare\dev\Java-fighting\src\main\java\com\yc\06-six-week" />
       <recent name="D:\Java\ideaworkspare\dev\Java-fighting\src\main\java\com\yc\07-seven-week" />
     </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.yc.b_two_week" />
+    </key>
   </component>
-  <component name="RunManager">
-    <configuration name="day1Actual" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day1Actual" />
+  <component name="RunManager" selected="应用程序.W2D6_Actual">
+    <configuration name="W1D1_Actual" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="W1D1_Actual" />
+      <module name="Java-fight" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="W2D6_Actual" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.yc.b_two_week.W2D6_Actual" />
+      <module name="Java-fight" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.yc.b_two_week.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.yc.a-one-week.null" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.yc.a-one-week.null" />
+      <module name="Java-fight" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.yc.a-one-week.null" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.yc.a-one-week.null" />
+      <module name="Java-fight" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="null" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.yc.b-two-week.null" />
       <module name="Java-fight" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -125,7 +210,10 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="应用程序.day1Actual" />
+        <item itemvalue="应用程序.W2D6_Actual" />
+        <item itemvalue="应用程序.null" />
+        <item itemvalue="应用程序.com.yc.a-one-week.null" />
+        <item itemvalue="应用程序.com.yc.a-one-week.null" />
       </list>
     </recent_temporary>
   </component>
@@ -153,7 +241,10 @@
       <workItem from="1779690737930" duration="595000" />
       <workItem from="1779691339951" duration="13601000" />
       <workItem from="1779707750692" duration="918000" />
-      <workItem from="1779715735016" duration="94000" />
+      <workItem from="1779715735016" duration="174000" />
+      <workItem from="1779717039435" duration="7000" />
+      <workItem from="1779756084704" duration="13005000" />
+      <workItem from="1779775522450" duration="6880000" />
     </task>
     <task id="LOCAL-00001" summary="Java-0~1学习,项目init">
       <option name="closed" value="true" />
@@ -163,7 +254,15 @@
       <option name="project" value="LOCAL" />
       <updated>1779682786237</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="第一周八股基础知识点+图文概念">
+      <option name="closed" value="true" />
+      <created>1779715887452</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1779715887452</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -171,7 +270,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Java-0~1学习,项目init" />
-    <option name="LAST_COMMIT_MESSAGE" value="Java-0~1学习,项目init" />
+    <MESSAGE value="第一周八股基础知识点+图文概念" />
+    <option name="LAST_COMMIT_MESSAGE" value="第一周八股基础知识点+图文概念" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

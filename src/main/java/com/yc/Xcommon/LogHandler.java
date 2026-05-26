@@ -1,4 +1,4 @@
-package com.yc.common;
+package com.yc.Xcommon;
 
 import java.lang.reflect.InvocationHandler;
 import java.lang.reflect.Method;

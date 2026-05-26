@@ -1,15 +1,12 @@
-import com.yc.common.PECSTest;
-
 import java.lang.reflect.InvocationTargetException;
 import java.lang.reflect.Method;
 import java.util.ArrayList;
 import java.util.List;
 
-import static com.yc.common.PECSTest.addNumbers;
-import static com.yc.common.PECSTest.printList;
+import static com.yc.Xcommon.PECSTest.addNumbers;
+import static com.yc.Xcommon.PECSTest.printList;
 
-public class day5Actual {
-
+public class W1D5_Actual {
 
     public static void main(String[] args) throws InvocationTargetException, IllegalAccessException, NoSuchMethodException {
         // 写代码验证类型擦除：用反射往 List<String> 里塞一个 Integer，观察编译期和运行期差异
@@ -45,8 +42,8 @@ public class day5Actual {
         printList(List.of(1, 2, 3)); // 生产者
 
         // 测试消费者
-        List<Object> list = new ArrayList<>();
-        addNumbers(list);
-        System.out.println(list); // [10, 20]
+        List<Object> list2 = new ArrayList<>();
+        addNumbers(list2);
+        System.out.println(list2); // [10, 20]
     }
 }

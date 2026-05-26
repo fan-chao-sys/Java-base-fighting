@@ -1,11 +1,11 @@
-import com.yc.common.*;
+import com.yc.Xcommon.*;
 
 import java.lang.reflect.Constructor;
 import java.lang.reflect.InvocationTargetException;
 import java.lang.reflect.Method;
 import java.lang.reflect.Proxy;
 
-public class day6Actual{
+public class W1D6_Actual {
 
     public static void main(String[] args) throws InvocationTargetException, IllegalAccessException, NoSuchMethodException, InstantiationException {
 
