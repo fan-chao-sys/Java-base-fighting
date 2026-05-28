@@ -4,34 +4,23 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="65511764-d43b-41fe-8b06-8b8a359c4f61" name="更改" comment="第二周八股基础知识点+图文概念；文件格式排版重构">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/yc/Xcommon/Counter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/yc/Xcommon/CustomThreadPool.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/yc/Xcommon/MyCallable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/yc/Xcommon/MyRunnable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/yc/Xcommon/MyThread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/yc/Xcommon/PrintNum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/yc/Xcommon/ProducerConsumerDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/yc/Xcommon/VisibilityDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/yc/c_three_week/W3D1_Actual.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/yc/c_three_week/W3D2_Actual.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/yc/c_three_week/W3D3_Actual.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/yc/c_three_week/W3D4_Actual.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/yc/c_three_week/W3D5_Actual.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/yc/c_three_week/W3D6_Actual.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/yc/project/REGENOS医疗美容智慧管理平台.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/yc/project/江泰保险集团保险业务系统对接项目.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/yc/project/神马出行网约车项目.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/yc/project/项目技术点拆解.docx" afterDir="false" />
+    <list default="true" id="65511764-d43b-41fe-8b06-8b8a359c4f61" name="更改" comment="第三周八股基础知识点+图文概念；文件格式排版重构">
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sqldialects.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/yc/Xcommon/Singleton.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/yc/Xcommon/Singleton.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/yc/d_four_week/W4D1_Actual.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/yc/d_four_week/W4D1_Actual.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/yc/d_four_week/W4D2_Actual.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/yc/d_four_week/W4D2_Actual.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/yc/d_four_week/W4D3_Actual.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/yc/d_four_week/W4D3_Actual.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/yc/d_four_week/W4D4_Actual.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/yc/d_four_week/W4D4_Actual.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/yc/d_four_week/W4D5_Actual.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/yc/d_four_week/W4D5_Actual.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/yc/d_four_week/W4D6_Actual.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/yc/d_four_week/W4D6_Actual.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="ChangesViewManager" show_ignored="true" />
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
@@ -47,6 +36,7 @@
       </GitPushTagMode>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RESET_MODE" value="SOFT" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
   &quot;lastFilter&quot;: {
@@ -60,10 +50,10 @@
     &quot;accountId&quot;: &quot;c4bd6ee7-7942-4a0d-8f75-4662485d47c0&quot;
   }
 }</component>
-  <component name="KubernetesApiPersistence"><![CDATA[{}]]></component>
-  <component name="KubernetesApiProvider"><![CDATA[{
-  "isMigrated": true
-}]]></component>
+  <component name="KubernetesApiPersistence">{}</component>
+  <component name="KubernetesApiProvider">{
+  &quot;isMigrated&quot;: true
+}</component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
@@ -88,12 +78,13 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Maven.Java-fight [compile,-DforkCount=0...].executor": "Debug",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "D:/Java/ideaworkspare/dev/Java-fighting/src/main/java/com/yc/project",
+    "last_opened_file_path": "D:/Java/ideaworkspare/dev/Java-Interview-fighting",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -103,7 +94,7 @@
     "project.structure.last.edited": "模块",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "MavenSettings",
+    "settings.editor.selected.configurable": "database.query.execution",
     "vue.rearranger.settings.migration": "true",
     "应用程序.W2D3Actual.executor": "Run",
     "应用程序.W2D3_Actual.executor": "Run",
@@ -112,9 +103,15 @@
     "应用程序.W3D3_Actual.executor": "Run",
     "应用程序.W3D4_Actual.executor": "Run",
     "应用程序.W3D5_Actual.executor": "Run",
+    "应用程序.W4D1_Actual.executor": "Run",
     "应用程序.Week2Day3Actual.executor": "Run",
     "应用程序.day1Actual.executor": "Run",
     "应用程序.day3Actual.executor": "Run"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "mysql"
+    ]
   }
 }]]></component>
   <component name="RebelAgentSelection">
@@ -140,20 +137,7 @@
       <recent name="com.yc.b_two_week" />
     </key>
   </component>
-  <component name="RunManager" selected="应用程序.W3D5_Actual">
-    <configuration name="W2D6_Actual" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.yc.b_two_week.W2D6_Actual" />
-      <module name="Java-fight" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.yc.b_two_week.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="应用程序.W4D1_Actual">
     <configuration name="W3D1_Actual" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="W3D1_Actual" />
       <module name="Java-fight" />
@@ -200,8 +184,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="com.yc.a-one-week.null" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.yc.a-one-week.null" />
+    <configuration name="W4D1_Actual" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="W4D1_Actual" />
       <module name="Java-fight" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -222,11 +206,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="应用程序.W4D1_Actual" />
         <item itemvalue="应用程序.W3D5_Actual" />
         <item itemvalue="应用程序.W3D4_Actual" />
         <item itemvalue="应用程序.W3D3_Actual" />
         <item itemvalue="应用程序.W3D1_Actual" />
-        <item itemvalue="应用程序.W2D6_Actual" />
       </list>
     </recent_temporary>
   </component>
@@ -284,7 +268,15 @@
       <option name="project" value="LOCAL" />
       <updated>1779782690118</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="第三周八股基础知识点+图文概念；文件格式排版重构">
+      <option name="closed" value="true" />
+      <created>1779937895238</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1779937895238</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -294,7 +286,8 @@
     <MESSAGE value="Java-0~1学习,项目init" />
     <MESSAGE value="第一周八股基础知识点+图文概念" />
     <MESSAGE value="第二周八股基础知识点+图文概念；文件格式排版重构" />
-    <option name="LAST_COMMIT_MESSAGE" value="第二周八股基础知识点+图文概念；文件格式排版重构" />
+    <MESSAGE value="第三周八股基础知识点+图文概念；文件格式排版重构" />
+    <option name="LAST_COMMIT_MESSAGE" value="第三周八股基础知识点+图文概念；文件格式排版重构" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -306,5 +299,9 @@
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>

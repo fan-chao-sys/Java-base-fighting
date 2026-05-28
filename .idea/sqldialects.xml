@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SqlDialectMappings">
+    <file url="file://$PROJECT_DIR$/src/main/java/com/yc/e_five_week/W5D1_Actual.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/yc/e_five_week/W5D2_Actual.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/yc/e_five_week/W5D3_Actual.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/yc/e_five_week/W5D5_Actual.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/yc/e_five_week/W5D6_Actual.sql" dialect="MySQL" />
+    <file url="PROJECT" dialect="MySQL" />
+  </component>
+</project>
