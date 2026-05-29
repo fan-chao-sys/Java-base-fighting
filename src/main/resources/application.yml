@@ -7,3 +7,14 @@ spring:
   h2:
     console:
       enabled: true
+  redis:
+    host: localhost
+    port: 6379
+    password:
+    database: 0
+  rabbitmq:
+    host: localhost
+    port: 5672
+    username: guest
+    password: guest
+    virtual-host: /
