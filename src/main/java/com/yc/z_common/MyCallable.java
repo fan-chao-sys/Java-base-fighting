@@ -1,4 +1,4 @@
-package com.yc.Xcommon;
+package com.yc.z_common;
 
 import java.util.concurrent.Callable;
 

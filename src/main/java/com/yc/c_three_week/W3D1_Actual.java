@@ -1,7 +1,7 @@
-import com.yc.Xcommon.MyCallable;
-import com.yc.Xcommon.MyRunnable;
-import com.yc.Xcommon.MyThread;
-import com.yc.Xcommon.PrintNum;
+import com.yc.z_common.MyCallable;
+import com.yc.z_common.MyRunnable;
+import com.yc.z_common.MyThread;
+import com.yc.z_common.PrintNum;
 
 import java.util.concurrent.ExecutionException;
 import java.util.concurrent.ExecutorService;

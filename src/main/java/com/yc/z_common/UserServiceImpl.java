@@ -1,4 +1,4 @@
-package com.yc.Xcommon;
+package com.yc.z_common;
 
 // 2. 接口实现类（被代理对象）
 public class UserServiceImpl implements UserService {

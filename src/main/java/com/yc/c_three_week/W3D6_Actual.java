@@ -2,7 +2,7 @@ package com.yc.c_three_week;
 
 import java.util.concurrent.ExecutorService;
 
-import static com.yc.Xcommon.CustomThreadPool.createThreadPool;
+import static com.yc.z_common.CustomThreadPool.createThreadPool;
 
 public class W3D6_Actual {
 

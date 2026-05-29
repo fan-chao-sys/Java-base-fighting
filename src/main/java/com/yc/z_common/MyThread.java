@@ -1,4 +1,4 @@
-package com.yc.Xcommon;
+package com.yc.z_common;
 
 // 1. 继承Thread类
 public class MyThread extends Thread {

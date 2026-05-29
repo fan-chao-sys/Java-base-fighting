@@ -1,4 +1,4 @@
-package com.yc.Xcommon;
+package com.yc.z_common;
 
 // 1. 业务接口
 public interface UserService {

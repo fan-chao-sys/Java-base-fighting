@@ -1,6 +1,6 @@
 package com.yc.g_seven_week.W7D6;
 
-import com.yc.Xcommon.TokenBucketRateLimiter;
+import com.yc.z_common.TokenBucketRateLimiter;
 
 public class W7D6_Actual {
 

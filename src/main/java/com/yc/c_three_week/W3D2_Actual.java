@@ -1,6 +1,6 @@
 package com.yc.c_three_week;
 
-import com.yc.Xcommon.VisibilityDemo;
+import com.yc.z_common.VisibilityDemo;
 
 public class W3D2_Actual {
 

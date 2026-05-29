@@ -3,8 +3,8 @@ import java.lang.reflect.Method;
 import java.util.ArrayList;
 import java.util.List;
 
-import static com.yc.Xcommon.PECSTest.addNumbers;
-import static com.yc.Xcommon.PECSTest.printList;
+import static com.yc.z_common.PECSTest.addNumbers;
+import static com.yc.z_common.PECSTest.printList;
 
 public class W1D5_Actual {
 

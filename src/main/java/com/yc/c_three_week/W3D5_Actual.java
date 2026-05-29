@@ -1,7 +1,7 @@
 package com.yc.c_three_week;
 
-import com.yc.Xcommon.Counter;
-import com.yc.Xcommon.ProducerConsumerDemo;
+import com.yc.z_common.Counter;
+import com.yc.z_common.ProducerConsumerDemo;
 
 public class W3D5_Actual {
 

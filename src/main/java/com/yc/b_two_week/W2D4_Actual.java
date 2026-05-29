@@ -1,4 +1,4 @@
-import com.yc.Xcommon.User;
+import com.yc.z_common.User;
 
 import java.util.HashMap;
 import java.util.Map;

@@ -1,5 +1,5 @@
-import static com.yc.Xcommon.SimpleJwtUtil.generateToken;
-import static com.yc.Xcommon.SimpleJwtUtil.validateToken;
+import static com.yc.z_common.SimpleJwtUtil.generateToken;
+import static com.yc.z_common.SimpleJwtUtil.validateToken;
 
 public class W7D5_Actual {
 

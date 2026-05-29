@@ -1,4 +1,4 @@
-package com.yc.Xcommon;
+package com.yc.z_common;
 
 public class Singleton {
     // volatile 禁止指令重排

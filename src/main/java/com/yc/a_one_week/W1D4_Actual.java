@@ -1,6 +1,6 @@
 // 写一个 try-with-resources 示例，实现 AutoCloseable 接口观察资源释放顺序
 
-import com.yc.Xcommon.Resource;
+import com.yc.z_common.Resource;
 
 public class W1D4_Actual {
 

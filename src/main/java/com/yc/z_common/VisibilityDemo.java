@@ -1,4 +1,4 @@
-package com.yc.Xcommon;
+package com.yc.z_common;
 
 public class VisibilityDemo {
     // 不加 volatile！！！核心！！！

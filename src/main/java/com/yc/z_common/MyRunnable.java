@@ -1,4 +1,4 @@
-package com.yc.Xcommon;
+package com.yc.z_common;
 
 // 1. 实现Runnable接口
 public class MyRunnable implements Runnable {

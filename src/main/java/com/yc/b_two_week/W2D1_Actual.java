@@ -1,4 +1,4 @@
-import com.yc.Xcommon.Student;
+import com.yc.z_common.Student;
 
 import java.util.*;
 

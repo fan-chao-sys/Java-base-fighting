@@ -1,4 +1,4 @@
-package com.yc.Xcommon;
+package com.yc.z_common;
 
 public class PrintNum {
     // 共享数字，从1开始打印
