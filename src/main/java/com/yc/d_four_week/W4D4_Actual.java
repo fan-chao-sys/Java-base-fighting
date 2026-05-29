@@ -11,30 +11,23 @@ public class W4D4_Actual {
          * 强引用：持续创建对象，堆满直接 OOM
          * JVM 参数：-Xms20m -Xmx20m -XX:+PrintGCDetails
          */
-        List<Object> list1 = new ArrayList<>();
-        int i = 0;
-        while (true) {
-            // 持续创建大对象，强引用持有
-            list1.add(new byte[1024 * 1024]);
-            System.out.println("创建第 " + (++i) + " 个 1M 数组");
-        }
+        // ====== 强引用测试（取消注释运行）======
+        // List<Object> list1 = new ArrayList<>();
+        // int i = 0;
+        // while (true) {
+        //     list1.add(new byte[1024 * 1024]);
+        //     System.out.println("创建第 " + (++i) + " 个 1M 数组");
+        // }
 
-
-        /**
-         * 软引用测试：内存不足时自动回收，不会OOM
-         * JVM 参数：-Xms20m -Xmx20m -XX:+PrintGCDetails
-         */
+        // ====== 软引用测试（默认运行）======
+        // JVM 参数：-Xms20m -Xmx20m -XX:+PrintGCDetails
         List<SoftReference<byte[]>> list = new ArrayList<>();
-        int i = 0;
+        int j = 0;
         while (true) {
             byte[] bytes = new byte[1024 * 1024];
-            // 包裹为软引用
             SoftReference<byte[]> softRef = new SoftReference<>(bytes);
             list.add(softRef);
-
-            System.out.println("创建第 " + (++i) + " 个 1M 数组");
-
-            // 主动置空强引用，只剩软引用
+            System.out.println("创建第 " + (++j) + " 个 1M 数组");
             bytes = null;
         }
 
